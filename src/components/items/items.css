@@ -1,0 +1,20 @@
+.containers{
+width : 75%;
+min-height: 60vh;
+margin-left : auto;
+margin-right : auto;
+}
+
+.divClass{
+    top: -80px;
+    position: relative;
+    padding-bottom: 100px;
+    background-color : white;
+}
+
+h3{
+color : blue;
+padding : 20px;
+margin-left : 20px
+
+}
